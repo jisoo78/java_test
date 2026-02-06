@@ -1,3 +1,5 @@
+package java_one;
+
 public class Project_1 {
     //        TODO: int, double, char, boolean, String 변수 각각 하나씩 선언
     //        TODO: 본인 이름, 나이, 키, 개발자 여부(true/false) 저장

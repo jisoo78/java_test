@@ -1,3 +1,5 @@
+package java_one;
+
 public class Project_6 {
     public static void main(String[] args) {
         // 변수 선언 및 초기화

@@ -1,3 +1,5 @@
+package java_one;
+
 public class Project_7 {
     public static void main(String[] args) {
         Person person = new Person();

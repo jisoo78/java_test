@@ -1,3 +1,5 @@
+package java_one;
+
 public class Project_2 {
     //  TODO: 두 정수 a, b 선언 (값은 자유)
     //  TODO: 아래 연산 결과를 전부 출력 (합 차 곱 몫)
