@@ -1,16 +1,16 @@
 package mini_project;
 
 public class Teacher extends Person{
-    private int score;
+    private String subject;
 
-    public Teacher(String name, int score) {
+    public Teacher(String name, String subject) {
         super(name);
-        this.score = score;
+        this.subject = subject;
     }
 
     @Override
-    void printName() {
-        super.printName();
-        System.out.println("점수: " + score);
+    void printInfo() {
+        System.out.println("선생님 이름: " + name);
+        System.out.println("과목: " + subject);
     }
 }
